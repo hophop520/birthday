@@ -37,6 +37,6 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "HAPPY BIRTHDAY CHOUBAO",
+        story: "HAPPY BIRTHDAY BABY",
     }
 };
